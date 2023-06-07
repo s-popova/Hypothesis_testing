@@ -1,6 +1,5 @@
 streamlit
-pandas 
-matplotlib.pyplot
+pandas
+matplotlib
 scipy
-ttest_ind
-seaborn 
+seaborn
