@@ -12,12 +12,12 @@ https://s-popova-hypothesis-testing-hypothesis-testing-eum75b.streamlit.app/
 1. **scipy**
 1. **seaborn**
 
-## Файл ***hypothesis_testing_notebook*** - это Jupyter Notebook с кодом
-## Файл ***Hypothesis_testing.py *** - это дашборд Streamlit
-## Файл ***Статистика.csv*** - это файл с данными
+#### Файл ***hypothesis_testing_notebook*** - это Jupyter Notebook с кодом
+#### Файл ***Hypothesis_testing.py *** - это дашборд Streamlit
+#### Файл ***Статистика.csv*** - это файл с данными
 
 
-### <a href="[https://vk.com/s.popova21](https://t.me/soonya_1)"> Софья Попова </a>
+### <a href="[https://t.me/soonya_1]"> Софья Попова </a>
 
 <div>
   <hr> &copy; hypothesis_testing 2023
