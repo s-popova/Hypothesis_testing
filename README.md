@@ -17,7 +17,7 @@ https://s-popova-hypothesis-testing-hypothesis-testing-eum75b.streamlit.app/
 #### Файл ***Статистика.csv*** - это файл с данными
 
 
-### <a href="[https://t.me/soonya_1]"> Софья Попова </a>
+### <a href="https://t.me/soonya_1"> Софья Попова </a>
 
 <div>
   <hr> &copy; hypothesis_testing 2023
