@@ -3,7 +3,7 @@
 
 ## Веб-дашборд:
 
-https://s-popova-hypothesis-testing-hypothesis-testing-eum75b.streamlit.app/
+https://s-popova-hypothesis-testing-hypothesis-testing-032cta.streamlit.app/
 
 ## Список необходимых модулей:
 1. **streamlit**
