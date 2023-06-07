@@ -13,7 +13,7 @@ https://s-popova-hypothesis-testing-hypothesis-testing-032cta.streamlit.app/
 1. **seaborn**
 
 #### Файл ***hypothesis_testing_notebook.ipynb*** - это Jupyter Notebook с кодом
-#### Файл ***Hypothesis_testing.py *** - это дашборд Streamlit
+#### Файл ***Hypothesis_testing.py*** - это дашборд Streamlit
 #### Файл ***Статистика.csv*** - это файл с данными
 
 
